@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FastestRoutePublicTransit",
+            "request": "launch",
+            "mainClass": "FastestRoutePublicTransit",
+            "projectName": "algos-assignment-greedy-and-graphs_35a42cbe"
+        }
+    ]
+}
